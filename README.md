@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yoshithraajaalla
+- 👀 I’m interested in Convolutional Neural Networks, Transformer Neural Networks, and other captivating technologies.
+- 🌱 I’m currently learning Natural Language Processing, Neural Networks, and Deep Learning.
+- 💞️ I’m looking to collaborate on projects related to Machine Learning.
+- 📫 Come hang out with me on [Twitter!](https://twitter.com/yoshithraaj)
